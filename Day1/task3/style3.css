@@ -1,0 +1,40 @@
+.container{
+    border: 1px solid lightgrey;
+    border-radius:14px;
+    width:400px; 
+    margin:50px auto;
+    font-size:10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    
+}
+
+.container2-img{
+    width:100%;
+    border-top-right-radius:14px;
+    border-top-left-radius:14px;
+    width: 100%;
+}
+
+.padding{
+    padding-left:20px;
+}
+
+.light-text{
+    color: gray;
+    font-weight: bold;
+    font-size:20px;
+}
+
+.btn{
+    border: 1px solid lightgrey;
+    padding:20px 30px;
+    border-radius: 5px;
+    margin:20px;
+    font-weight: 600;
+    color: rgb(25, 145, 210);
+    background-color: white;
+}
+
+.margin{
+    margin-top:20px
+}
